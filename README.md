@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, It's Zeroflix Studio <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**zeroflixxyz/zeroflixxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="100px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
+<img align="right" alt="GIF" height="100px" src="https://miro.medium.com/max/1062/1*UOcMh43IDlvj6_cXkETQ4Q.gif" />
+<img align="right" alt="GIF" height="100px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
-Here are some ideas to get you started:
+**Zeroflix Stuffs:**
+- 🔭 We're currently working on Zeroflix platform
+- ✨ Interested in backend & mobile development
+- 📫 Reach us via [twitter](https://twitter.com/zeroflix) or [facebook](https://www.facebook.com/zeroflix/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Current Research :   
+- Machine Learning  
+- Artificial Intelligence
+- Tools development
+
+[![🦉 Zeroflix's github stats](https://github-readme-stats.vercel.app/api?username=zeroflixxyz&show_icons=true)](https://github.com/zeroflixxyz)
